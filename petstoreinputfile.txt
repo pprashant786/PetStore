@@ -1,0 +1,8 @@
+
+#the following program will connect to the petstore.swagger.io to collect the inventory details.
+#giving the importance to learn git more than execution of the below code.:
+
+curl -X 'GET' \
+  'https://petstore.swagger.io/v2/store/inventory' \
+  -H 'accept: application/json' \
+  -H 'api_key: pprashant786'

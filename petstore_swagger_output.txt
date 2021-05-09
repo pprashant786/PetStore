@@ -1,0 +1,12 @@
+
+#follwoing is the output of the petstore swagger inventory api call ...
+
+{
+  "sold": 15,
+  "string": 281,
+  "Nonavailable": 1,
+  "pending": 7,
+  "not available status": 1,
+  "available": 672,
+  "status": 1
+}
